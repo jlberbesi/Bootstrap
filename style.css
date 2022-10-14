@@ -1,0 +1,43 @@
+@import "bootstrap-social.less";
+
+body {
+  background-color: white;
+}
+
+h1 {
+  margin-top: 10rem;
+  width: 100%;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 60px;
+  letter-spacing: 0.37px;
+  color: #091e42;
+}
+
+.landing {
+  background-image: url("./images/imagebg.png");
+  background-size: cover;
+  background-position: 100% 10%;
+  background-repeat: no-repeat;
+  height: auto;
+  width: 100%;
+  background-color: #fff;
+  border-bottom-left-radius: 80px;
+}
+
+.p {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  color: #344563;
+}
+
+.align-item-start {
+  padding-left: 0;
+}
+
+.navbar-brand {
+  color: #6070ff;
+}
